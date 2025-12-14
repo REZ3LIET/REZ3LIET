@@ -16,9 +16,9 @@ Currently exploring causal reasoning and counterfactual inference for more robus
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 
-**AI/ML:** LangChain • PyTorch • RAG Systems • Prompt Engineering  
-**Robotics:** ROS2 • MoveIt2 • Isaac Sim • Gazebo  
-**Deployment:** Docker • gRPC • ONNX  
+**AI/ML:** LangChain | PyTorch | RAG Systems | Prompt Engineering  
+**Robotics:** ROS2 | MoveIt2 | Isaac Sim | Gazebo  
+**Deployment:** Docker | gRPC | ONNX  
 
 ## 🚀 Featured Projects
 
@@ -36,7 +36,6 @@ Privacy-first local LLM chatbot using Ollama + LangChain with conversation memor
 
 ## 🎓 Education
 **MS in Artificial Intelligence** - Worcester Polytechnic Institute (2025-2027)  
-**B.Tech in Mechanical Engineering** - Vishwakarma Institute of Technology (2018-2022)
 
 ## 💼 Experience
 **Senior AI Engineer** @ Tata Elxsi (2022-2025)
@@ -47,7 +46,6 @@ Privacy-first local LLM chatbot using Ollama + LangChain with conversation memor
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-kale)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ks.samar.kale@gmail.com)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rezeliet)
 
 ---
 💡 Open to Summer 2026 internships in LLM-driven robotics, agentic AI, and causal reasoning systems.
