@@ -1,4 +1,4 @@
-# Hi, I'm Samar 👋
+# REZELIET here 👋
 
 **AI Engineer | MS in AI @ WPI | Building LLM-driven robotic systems**
 
