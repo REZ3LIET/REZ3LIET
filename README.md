@@ -22,7 +22,7 @@ Currently exploring causal reasoning and counterfactual inference for more robus
 
 ## 🚀 Featured Projects
 
-### [KUKA-ROS2](https://github.com/REZ3LIET/KUKA-ROS2) ⭐ 12
+### [KUKA-ROS2](https://github.com/REZ3LIET/KUKA-ROS2) ⭐ 18
 Multi-robot ROS2 integration for KUKA arms with Gazebo + MoveIt2. Supports heterogeneous fleet coordination.
 
 ### [Resume-Chat](https://github.com/REZ3LIET/Resume-Chat)
